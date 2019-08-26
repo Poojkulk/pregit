@@ -1,0 +1,3 @@
+#!bash/user
+echo "welcome to git hub"
+exit 0
