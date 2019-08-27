@@ -9,6 +9,6 @@ describe('Test hasVowels', () => {
     expect('No vowels'.hasVowels()).to.equal(true)
 
     // Introduce failing test
-    expect('Has vowels'.hasVowels()).to.equal(false);
+    expect('Has vowels'.hasVowels()).to.equal(true);
   });
 });
